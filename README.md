@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I am **Rahmad Muliadi Damanik**, a researcher and lifelong learner committed to advancing the quality of measurement in education and the social sciences. My scholarly interests include instrument development and evaluation, statistical and psychometric modeling, and defensible score interpretation and use.
-
-I am particularly interested in reliability, validity, fairness, and the cultural relevance of measurement instruments in the Indonesian context.
+I am **Rahmad Muliadi Damanik**, a researcher and lifelong learner dedicated to the quality of measurement in education and the social sciences. My research focuses on reliability, validity, fairness, statistical modeling, measurement theory, and cultural relevance in the Indonesian context. I have a particular interest in the development and evaluation of tests and measurement scales, the implementation of assessment systems, and the appropriate and accountable use of scores to support evidence-based quantitative research.
 
 ## Current Roles
 
