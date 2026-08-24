@@ -5,7 +5,7 @@ I am **Rahmad Muliadi Damanik**, a researcher and lifelong learner dedicated to 
 ## Current Roles
 
 - **Adjunct Lecturer**, Faculty of Psychology, Universitas Padjadjaran
-- **Psychometrician**, Center for Psychometrics, Faculty of Psychology, Universitas Padjadjaran
+- **Psychometrician**, Center for Psychometrics Study, Faculty of Psychology, Universitas Padjadjaran
 
 ## Curriculum Vitae
 
