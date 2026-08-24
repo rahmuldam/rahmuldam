@@ -9,4 +9,4 @@ I am **Rahmad Muliadi Damanik**, a researcher and lifelong learner dedicated to 
 
 ## Curriculum Vitae
 
-- [English CV]([CV_Rahmad_Muliadi_Damanik_English.pdf](https://github.com/rahmuldam/rahmuldam/blob/2720993f2328727513ae4e6a5919f1ab3afb06e9/CV%20Rahmad%20Muliadi%20Damanik%20(English).pdf)) 
+- [CV_Rahmad_Muliadi_Damanik_English.pdf](https://github.com/rahmuldam/rahmuldam/blob/2720993f2328727513ae4e6a5919f1ab3afb06e9/CV%20Rahmad%20Muliadi%20Damanik%20(English).pdf) 
